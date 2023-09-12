@@ -1,1 +1,1 @@
-# hert-disease-praxis
+# heart-disease-praxis
